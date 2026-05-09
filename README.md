@@ -150,22 +150,4 @@ https://didactic-capybara-94x97q5jj96c79vq-8080.app.github.dev/
 }
 ```
 
----
 
-# Concurrency
-
-Network operations run on a background thread to maintain UI responsiveness.
-
-```java
-new Thread(() -> {
-    // Network request
-}).start();
-```
-
----
-
-# Author
-
-**Fiona Yi Ting Wang**  
-Course: 95-702-B  
-Project: Project 4 Task 2
